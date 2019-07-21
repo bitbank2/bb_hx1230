@@ -19,7 +19,7 @@ FastIO library can be used to speed up bit banging on all AVR MCUs.<br>
 Features:<br>
 ---------<br>
 - Drives the display from any 2 GPIO pins (clock + data) and optional RESET/CE/Backlight
-- 3 sizes of fixed fonts (6x8, 8x8, 16x16/16x32)<br>
+- 4 sizes of fixed fonts (6x8, 8x8, 16x16, 16x32)<br>
 - a function to load a 96x68 Windows BMP file<br>
 - Optional backing RAM for drawing pixels for systems with enough RAM<br>
 - Light enough to run on an ATtiny85<br> 
